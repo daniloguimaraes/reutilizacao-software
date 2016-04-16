@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.com.alfa</groupId>
+  <artifactId>reutilizacao-software</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <developers>
+    <developer>
+      <id>daniloguimaraes</id>
+      <name>Danilo Guimarães</name>
+      <email>guimaraesdjl@gmail.com</email>
+      <url>http://www.github.com/daniloguimaraes</url>
+     </developer>
+     
+     <developer>
+      <id>duanniston</id>
+      <name>Duanniston Cardoso Cabral</name>
+      <email>@gmail.com</email>
+      <url>https://github.com/duanniston</url>
+     </developer>
+  </developers>
+</project>
